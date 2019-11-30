@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'jobparser.spiders'
 
 LOG_ENABLED = True
 LOG_LEVEL = 'DEBUG'
-LOG_FILE = 'jobparser_log.txt'
+#LOG_FILE = 'jobparser_log.txt'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
